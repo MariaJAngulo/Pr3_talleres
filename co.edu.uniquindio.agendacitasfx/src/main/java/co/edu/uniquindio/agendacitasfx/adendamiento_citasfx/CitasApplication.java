@@ -12,7 +12,7 @@ public class CitasApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(CitasApplication.class.getResource("AgendaCitas.fxml"));
         Scene scene = new Scene(fxmlLoader.load());
-        stage.setTitle("Perfect Nails");
+        stage.setTitle("Delfiny Nails");
         stage.setScene(scene);
         stage.show();
     }

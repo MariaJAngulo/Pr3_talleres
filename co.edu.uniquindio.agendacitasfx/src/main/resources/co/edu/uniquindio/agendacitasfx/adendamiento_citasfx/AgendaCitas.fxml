@@ -16,7 +16,7 @@
         <items>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
                <children>
-                  <Label layoutX="209.0" layoutY="6.0" text="Agenda de citas Salon Perfect Nails" />
+                  <Label layoutX="209.0" layoutY="6.0" text="Agenda de citas Salon Delfiny Nails" />
                </children>
             </AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
